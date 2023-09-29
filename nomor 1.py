@@ -1,7 +1,7 @@
 # bab1_Projek_python_nomor_1
 # Mengambil input dari pengguna
-bilangan1 = float(input("Masukkan bilangan pertama: "))
-bilangan2 = float(input("Masukkan bilangan kedua: "))
+bilangan1 = int(input("Masukkan bilangan pertama: "))
+bilangan2 = int(input("Masukkan bilangan kedua: "))
 
 # Operasi penjumlahan
 penjumlahan = bilangan1 + bilangan2
